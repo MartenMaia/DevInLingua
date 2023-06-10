@@ -4,7 +4,9 @@
 @tailwind utilities;
 
 
-:root {
+.root,
+#root,
+#docs-root {
   --primary: #16DB65;
   --secondary: #058C42;
   --dark-green: #04471C;
@@ -92,4 +94,3 @@ h5 {
 h6 {
   font-size: 1em;
 }
-

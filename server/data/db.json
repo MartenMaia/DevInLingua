@@ -3,43 +3,74 @@
     {
       "id": 1,
       "name": "Bruno Costa",
-      "languages": ["Inglês", "Português"]
+      "languagens": [
+        "Inglês",
+        "Português"
+      ]
     },
     {
       "id": 2,
       "name": "Emanuela P.",
-      "languages": ["Inglês", "Português"]
+      "languagens": [
+        "Inglês",
+        "Português"
+      ]
     },
     {
       "id": 3,
       "name": "Ana Beatriz",
-      "languages": ["Inglês", "Português"]
+      "languagens": [
+        "Inglês",
+        "Português"
+      ]
     },
     {
       "id": 4,
       "name": "Saulo Gomes",
-      "languages": ["Inglês", "Português"]
+      "languagens": [
+        "Inglês",
+        "Português"
+      ]
     },
     {
       "id": 5,
       "name": "Gustavo Pires",
-      "languages": ["Inglês", "Português"]
+      "languagens": [
+        "Inglês",
+        "Português"
+      ]
     },
     {
       "id": 6,
       "name": "Gabriela Silva",
-      "languages": ["Inglês", "Português"]
+      "languagens": [
+        "Inglês",
+        "Português"
+      ]
     },
     {
       "id": 7,
       "name": "Carlos Eduardo",
-      "languages": ["Inglês", "Português"]
+      "languagens": [
+        "Inglês",
+        "Português"
+      ]
     },
     {
       "id": 8,
       "name": "Sara Menezes",
-      "languages": ["Inglês", "Português"]
+      "languagens": [
+        "Inglês",
+        "Português"
+      ]
     }
   ],
-  "classes": []
+  "classes": [
+    {
+      "id": 1,
+      "teacherId": 7,
+      "data": "2023-06-07",
+      "hora": "13:30"
+    }
+  ]
 }

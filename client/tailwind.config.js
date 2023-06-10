@@ -16,7 +16,13 @@ export default {
       typography: {
         DEFAULT: {
           css: {
-            
+            color: '#000fff',
+            h1: {
+              color: '#3182ce',
+              '&:hover': {
+                color: '#2c5282',
+              },
+            },
           },
         },
       }
