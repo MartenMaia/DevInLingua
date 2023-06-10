@@ -3,42 +3,42 @@
     {
       "id": 1,
       "name": "Bruno Costa",
-      "languagens": ["Inglês", "Português"]
+      "languages": ["Inglês", "Português"]
     },
     {
       "id": 2,
       "name": "Emanuela P.",
-      "languagens": ["Inglês", "Português"]
+      "languages": ["Inglês", "Português"]
     },
     {
       "id": 3,
       "name": "Ana Beatriz",
-      "languagens": ["Inglês", "Português"]
+      "languages": ["Inglês", "Português"]
     },
     {
       "id": 4,
       "name": "Saulo Gomes",
-      "languagens": ["Inglês", "Português"]
+      "languages": ["Inglês", "Português"]
     },
     {
       "id": 5,
       "name": "Gustavo Pires",
-      "languagens": ["Inglês", "Português"]
+      "languages": ["Inglês", "Português"]
     },
     {
       "id": 6,
       "name": "Gabriela Silva",
-      "languagens": ["Inglês", "Português"]
+      "languages": ["Inglês", "Português"]
     },
     {
       "id": 7,
       "name": "Carlos Eduardo",
-      "languagens": ["Inglês", "Português"]
+      "languages": ["Inglês", "Português"]
     },
     {
       "id": 8,
       "name": "Sara Menezes",
-      "languagens": ["Inglês", "Português"]
+      "languages": ["Inglês", "Português"]
     }
   ],
   "classes": []
